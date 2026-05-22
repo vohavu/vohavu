@@ -8,7 +8,7 @@
 
 Hi, I'm **Havis**.
 
-A curious mind learning to slow down,
-and letting AI take care of the rest.
+A product designer driven by curiosity,
+building things that bring real value to people.
 
 > *"I think, therefore I build."*
