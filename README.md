@@ -6,9 +6,9 @@
  |_| |_|\__,_| \_/ |_|___/
 ```
 
-Xin chào, mình là **Havis**.
+Hi, I'm **Havis**.
 
-Một người tò mò, đang học cách sống chậm lại
-và để AI lo phần còn lại.
+A curious mind learning to slow down,
+and letting AI take care of the rest.
 
-> *"Less is more."*
+> *"I think, therefore I build."*
